@@ -38,3 +38,5 @@ git clone https://github.com/abcdok/demo.git
 - 改一行 `samples/note.md`，用 `git diff` 看变更  
 - 在 `src/` 里走读 `greet` 与 `formatTitle`  
 - 切换分支后拉取，对比 `docs/` 与 `samples/` 差异
+
+> 分支 `feature/demo`：在 main 基础上多这条说明，方便试切换分支与拉取。
