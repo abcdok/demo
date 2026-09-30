@@ -1,0 +1,8 @@
+{
+  "items": [
+    { "id": "a1", "label": "Alpha", "tags": ["core"] },
+    { "id": "b2", "label": "Beta", "tags": ["core", "beta"] },
+    { "id": "c3", "label": "Gamma", "tags": ["extra"] }
+  ],
+  "meta": { "version": 1, "locale": "zh-CN" }
+}
