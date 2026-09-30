@@ -15,10 +15,12 @@ git clone https://github.com/abcdok/demo.git
 | `src/` | 示例 TypeScript 源码 |
 | `docs/` | Markdown 文档 |
 | `config/` | 示例 JSON 配置 |
-| `samples/` | 可随意改动的笔记文件 |
+| `samples/` | 笔记、HTML 等样例 |
+| `assets/` | 图片等资源 |
 
 ## 随便试试
 
 - 打开 `docs/guide.md` 看排版与代码块  
+- 在预览里打开 `samples/hello.html`、`assets/demo.png`  
 - 改一行 `samples/note.md`，用 `git diff` 看变更  
 - 在 `src/` 里走读 `greet` 与 `formatTitle`
